@@ -1,0 +1,2 @@
+# simpleGoogleTestExample
+Example googletest build
